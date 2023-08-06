@@ -1,6 +1,9 @@
 # Numbers
 
-**TODO: Add description**
+- how to use mix for creating a new project
+- how to use the ExUnit framework for testing
+- how to write tests for a module
+- syntax related to numbers
 
 ## Installation
 
@@ -18,4 +21,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/numbers>.
-
